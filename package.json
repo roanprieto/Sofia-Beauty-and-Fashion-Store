@@ -1,0 +1,19 @@
+{
+  "name": "sofia-beauty-and-fashion-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roanprieto/Sofia-Beauty-and-Fashion-Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roanprieto/Sofia-Beauty-and-Fashion-Store/issues"
+  },
+  "homepage": "https://github.com/roanprieto/Sofia-Beauty-and-Fashion-Store#readme"
+}
